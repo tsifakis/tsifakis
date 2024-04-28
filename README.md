@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tsifakis panagiotis
+- 👋 Hi, I’m tsifakis panagiotis
 - 👀 I’m interested in machine learning, python, time series and forecasts....
 - 🌱 I’m currently learning, data analysis
 - 💞️ I’m looking to collaborate on, machine learning forecast
